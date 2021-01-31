@@ -1,2 +1,2 @@
 # Build OTP (One Time Password) based login system.
-By using this repository, user will be able to login via generated one time password using mobile number / (contact number) using OTP (One time Password).
+By using this repository, user will be able to login via generated one time password using mobile number / (contact number).
